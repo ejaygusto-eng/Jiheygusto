@@ -11,7 +11,7 @@ JavaProject
 </h2>
 
 <p align="center">
-Hey! I'm an introverted guy who enjoys staying at home,
+I'm an introverted guy who enjoys staying at home,
 having my own space, and taking things at my own pace.
 <br><br>
 I spend most of my free time playing games, listening to music,
