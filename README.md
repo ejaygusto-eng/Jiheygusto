@@ -1,6 +1,6 @@
 JavaProject
 
-<h1 align="center">🌌 A Quiet Mind, A Creative Soul.</h1>
+<h1 align="center"> A Quiet Mind, A Creative Soul.</h1>
 
 <p align="center">
 <i>Enjoying the little things in life.</i>
