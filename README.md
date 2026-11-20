@@ -1,4 +1,3 @@
-JavaProject
 
 <h1 align="center"> A Quiet Mind, A Creative Soul.</h1>
 
@@ -6,7 +5,7 @@ JavaProject
 <i>Enjoying the little things in life.</i>
 </p>
 
-<h2 align="center">
+<h2 align="left">
 <font color="#58A6FF"> About Me</font>
 </h2>
 
@@ -21,7 +20,7 @@ I'm always open to learning new things, improving myself,
 and trying something different.
 </p>
 
-<h2 align="center">
+<h2 align="left">
 <font color="#A371F7">🎨 Interests & Hobbies</font>
 </h2>
 
